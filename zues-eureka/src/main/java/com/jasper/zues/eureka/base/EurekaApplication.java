@@ -1,4 +1,4 @@
-package com.jasper.zues.base;
+package com.jasper.zues.eureka.base;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
